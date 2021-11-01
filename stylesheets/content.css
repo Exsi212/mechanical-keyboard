@@ -1,0 +1,26 @@
+body{
+  background-color: #white;
+  font-family: sans-serif;
+width: 50%;
+  margin: auto;
+  display: block;
+}
+table.t1{
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  height: auto;
+}
+table.t1,table.t1 td, table.t1 th {
+	border: 1px solid #595959;
+}
+table.t1 td,table.t1th {
+	padding: 3px;
+	width: 30px;
+	height: 35px;
+}
+table.t1 th {
+	background: #111111;
+	color: #fff;
+	font-weight: normal;
+}
